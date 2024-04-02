@@ -1,24 +1,7 @@
 # cost-calculator
 
-## Project setup
-```
-npm install
-```
+## Calculate expensive
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+Add indivual in and output to calculate total
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
