@@ -1,7 +1,3 @@
-# cost-calculator
+# Calculate expensive
 
-## Calculate expensive
-
-```
-Add indivual in and output to calculate total
-```
+Partially following along a tutorial to try compositional vue and also using packages
